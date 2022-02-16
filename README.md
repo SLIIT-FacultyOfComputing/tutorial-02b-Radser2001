@@ -1,3 +1,8 @@
+### Student Registration Number : IT21260988 
+### Student Name: Randeniya R.A.D.S.E
+
+<hr>
+
 # IT1050-Tutorial-02
 
 ## Objectives : Convert C programs to C++
